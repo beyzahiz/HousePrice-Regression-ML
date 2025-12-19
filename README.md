@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 Bu proje, farklı makine öğrenmesi regresyon algoritmalarını kullanarak **konut fiyatlarını tahmin etmeyi** amaçlamaktadır.  
 Amaç; modelleri karşılaştırmak, hiperparametre optimizasyonu uygulamak ve model performanslarını **RMSE metriği** üzerinden analiz etmektir.
@@ -77,3 +76,4 @@ Pandas <br>
 NumPy <br>
 Scikit-learn <br>
 Matplotlib / Seaborn <br>
+
